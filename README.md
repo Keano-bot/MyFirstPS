@@ -2,5 +2,5 @@
 
 ## Het script vraagt informatie op uit uw PC en laat dat vervolgens zien
 
-### **gemaakt door:** Keano Hogenbirk 
-### **leerlingnummer:** 173323
+### _gemaakt door:_ Keano Hogenbirk 
+### _leerlingnummer:_ 173323
